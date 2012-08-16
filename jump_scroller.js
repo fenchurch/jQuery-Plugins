@@ -10,7 +10,6 @@ License: GPL
 This software comes without any warranty.
 */
 
-*/
 if(!console){
 	console = {log:function(){return;}}
 }
